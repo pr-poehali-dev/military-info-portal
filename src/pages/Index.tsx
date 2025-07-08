@@ -123,7 +123,7 @@ const Index = () => {
               />
               <div>
                 <h1 className="text-2xl font-bold text-white">
-                  ИНФОРМАЦИОННЫЙ ПОРТАЛ
+                  4 ГВАРДЕЙСКАЯ ВАПНЯРСКО-БЕРЛИНСКАЯ ВОЕННАЯ БАЗА
                 </h1>
                 <p
                   className="text-sm"
@@ -134,7 +134,9 @@ const Index = () => {
               </div>
             </div>
             <div className="text-right text-white">
-              <div className="text-sm opacity-90">08 июля 2025</div>
+              <div className="text-sm opacity-90 bg-transparent rounded-full">
+                08 июля 2025
+              </div>
               <div className="text-lg font-mono">08:45 МСК</div>
             </div>
           </div>
