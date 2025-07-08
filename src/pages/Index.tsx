@@ -117,7 +117,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
               <img
-                src="/img/361059d2-e0c6-4a46-8845-593adccbe878.jpg"
+                src="/img/46dcd728-b9e5-4e16-95cf-0dbf5c92234f.jpg"
                 alt="Герб России"
                 className="w-12 h-12 rounded-full bg-white p-1"
               />
